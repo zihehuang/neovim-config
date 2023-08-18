@@ -19,3 +19,7 @@ To activate github copilot
 
 To install LSP
 - run `:LspInstall`
+
+For Telescope livegrep to work:
+- install ripgrep https://github.com/BurntSushi/ripgrep#installation
+
