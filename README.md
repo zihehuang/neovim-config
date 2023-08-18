@@ -22,4 +22,3 @@ To install LSP
 
 For Telescope livegrep to work:
 - install ripgrep https://github.com/BurntSushi/ripgrep#installation
-
