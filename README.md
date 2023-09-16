@@ -15,6 +15,7 @@ copy the nvim directory to ~/.config/nvim/ directory
 
 
 To activate github copilot
+- Install Nodejs per https://github.com/github/copilot.vim#getting-started
 - run `:Copilot auth`
 
 To install LSP
