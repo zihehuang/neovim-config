@@ -23,3 +23,6 @@ To install LSP
 
 For Telescope livegrep to work:
 - install ripgrep https://github.com/BurntSushi/ripgrep#installation
+
+For System Clipboard to work:
+- Try install xclip or xsel
